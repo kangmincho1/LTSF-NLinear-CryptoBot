@@ -7,8 +7,7 @@ LTSF(Long-term Time Series Forecasting) 테스크에서 transformer 적용에 �
 ![image](https://github.com/kangmincho1/LTSF-NLinear-CryptoBot/assets/72463778/6493842b-38a4-4155-a09d-e68a52df0c47)
 
 
-result:
-가상 돈으로 시뮬레이션 해본 결과, trade 10번(50분)만에 누적 수익률 5.628 % 달성
+**Result:** 가상 돈으로 시뮬레이션 해본 결과, trade 10번(50분)만에 누적 수익률 5.628 % 달성
 
 
 
